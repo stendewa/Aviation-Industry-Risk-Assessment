@@ -1,5 +1,8 @@
 #Aviation Industry Risk Assessment To Determine The Most Suitable Airplaine Models
+<<<<<<< HEAD
 ## ..*Overview
+=======
+##..*Contents
 1. Jupyter Notebook with the cleaned data frame and the applied code
 2. Interactive Tableau Workbook
 3. The original Datasets
@@ -21,3 +24,4 @@ After analysing the data on Jupyter Notebook:
 .The safest plane seemed to the **_Ilyushin_** models with fewer deaths on average
 .The less damage prone plane was the **_Boeing_** models with less substantial and destroyed damage than the other popular models
 .The greatest cause to airplane damage was the **_pilot's decision_** and this can be minimized through hiring qualified, experienced and vetted pilots.
+=======
