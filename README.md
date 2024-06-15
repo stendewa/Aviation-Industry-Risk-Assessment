@@ -23,5 +23,6 @@ The visualisations included in the Jupyter Notebook are representative of the mo
 After analysing the data on Jupyter Notebook: 
 .The safest plane seemed to the **_Ilyushin_** models with fewer deaths on average
 .The less damage prone plane was the **_Boeing_** models with less substantial and destroyed damage than the other popular models
-.The greatest cause to airplane damage was the **_pilot's decision_** and this can be minimized through hiring qualified, experienced and vetted pilots.
+.The greatest cause to airplane damage was the **_Fuel_** and this can be minimized through vetting suppliers 
+and having competent mechanics test the fuel before adding it onto the planes.
 =======
