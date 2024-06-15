@@ -1,28 +1,29 @@
-#Aviation Industry Risk Assessment To Determine The Most Suitable Airplaine Models
-<<<<<<< HEAD
-## ..*Overview
-=======
-##..*Contents
-1. Jupyter Notebook with the cleaned data frame and the applied code
-2. Interactive Tableau Workbook
-3. The original Datasets
+# Aviation Industry Risk Assessment to Determine the Most Suitable Airplane Models
 
-## ..*Data Understanding And Analysis
-I used a data set from the National Transportation Safety Board dated from 1982 to 2022 
-with detailed descripions of aircraft related accidents that occured within the aforementioned time frame.
-*The main points of focus were 
-1. Which aircraft are the lowest risk for the company to start this new business endeavor
-2. The main cause of plane accidents and a suggestion on how to mitigate it
-3. The Aircraft Damage and Fatalities per airplane maker
-The visualisations included in the Jupyter Notebook are representative of the models with less injuries and less damage to the planes.
+## Overview
 
-# Below is a link of the Visualisations Created From The Data On Tableau
-[A link to the tableau public page with the workbook](https://public.tableau.com/app/profile/stephen.waweru2947/viz/AviationRiskAnalysis_17184455156870/AviationRiskAnalysisDashboard)
+### Contents
+- Jupyter Notebook with the cleaned data frame and the applied code
+- Interactive Tableau Workbook
+- The original datasets
 
-## ..*Conclusion
-After analysing the data on Jupyter Notebook: 
-.The safest plane seemed to the **_Ilyushin_** models with fewer deaths on average
-.The less damage prone plane was the **_Boeing_** models with less substantial and destroyed damage than the other popular models
-.The greatest cause to airplane damage was the **_Fuel_** and this can be minimized through vetting suppliers 
-and having competent mechanics test the fuel before adding it onto the planes.
-=======
+### Data Understanding and Analysis
+I used a dataset from the National Transportation Safety Board, covering the period from 1982 to 2022, with detailed descriptions of aircraft-related accidents that occurred within this timeframe. The main points of focus were:
+
+1. Identifying which aircraft are the lowest risk for the company to start this new business endeavor.
+2. Determining the main cause of plane accidents and suggesting ways to mitigate it.
+3. Analyzing the aircraft damage and fatalities per airplane maker.
+
+The visualizations included in the Jupyter Notebook represent the models with fewer injuries and less damage to the planes.
+
+### Visualizations
+Below is a link to the visualizations created from the data on Tableau:
+
+[A link to the Tableau public page with the workbook](https://public.tableau.com/app/profile/stephen.waweru2947/viz/AviationRiskAnalysis_17184857201020/AviationRiskAnalysisDashboard)
+
+### Conclusion
+After analyzing the data in the Jupyter Notebook, the findings are as follows:
+
+- The safest plane models appear to be the Ilyushin models, which have fewer deaths on average.
+- The Boeing models are the least damage-prone, with less substantial and destroyed damage compared to other popular models.
+- The greatest cause of airplane damage was related to fuel issues. This can be minimized by vetting suppliers and having competent mechanics test the fuel before adding it to the planes.
